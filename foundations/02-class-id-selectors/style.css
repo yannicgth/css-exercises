@@ -2,3 +2,18 @@
     background-color: lightpink;
     font: Verdana, DejaVu Sans, sans-serif
 }
+
+#two {
+    color: blue;
+    font-size: 32px;
+}
+
+.odd.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
